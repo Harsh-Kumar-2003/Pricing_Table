@@ -40,6 +40,7 @@ a{
     color: #ffffffeb;
 }
 button{
+    border: none;
     background-color: orange;
     border-radius: 5px;
     min-width: 50px;
